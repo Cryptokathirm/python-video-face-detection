@@ -42,3 +42,8 @@ while True:
     else:
         print("video played completed")
         break
+        
+        
+        
+       #video link Here
+       #https://media.istockphoto.com/videos/point-of-view-shot-of-young-people-multiethnic-group-taking-selfie-video-id998913020
